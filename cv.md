@@ -12,7 +12,7 @@ During this course, I'd like to learn JavaScripts as progressive language. I'm a
 * MySQL
 * GIT
 * etc.
-***
+
 ```
 public function update(Request $request, int $itemId)
     {
@@ -33,8 +33,10 @@ public function update(Request $request, int $itemId)
     }
 ```
 ***
-**Middle dev** in an outsource company. 
+
+**I'm a middle developer** in an outsource company. 
 
 I've finished courese at [istep.by](https://itstep.by/) as Full Stack developer
+
 ***
 My English level is Intermediate+
