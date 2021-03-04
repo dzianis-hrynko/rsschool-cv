@@ -1,1 +1,1 @@
-https://denis-rolling-scopes.github.io/rsschool-cv/cv
+https://denis-rolling-scopes.github.io/rsschool-cv/
