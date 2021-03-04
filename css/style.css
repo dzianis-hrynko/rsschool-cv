@@ -1,0 +1,116 @@
+body {
+    width: 600px;
+}
+header, main, footer {
+    background: #edebeb;
+}
+header {
+    display: flex;
+    min-height: 150px;
+}
+main {
+    display: flex;
+}
+aside {
+    margin-left: 2%;
+}
+footer {
+    text-align:  center;
+}
+time {
+    font: bolder;
+}
+#foto {
+    margin-left: 2%;
+    min-height: 100px;
+}
+#fio {
+    margin-left: 5%;
+}
+#fio, article {
+    width: 68%;
+}
+#foto img {
+    max-width: 100%;
+    height: auto;
+}
+.name {
+    text-align: left;
+    font-size: 50px;
+}
+#profession {
+    font-size: 25px;
+}
+.name, #profession {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#fio, #foto, footer, article, aside {
+    padding: 1%;
+}
+#foto, aside {
+    width: 25%;
+}
+body, h6, #profession, .name {
+    margin: auto;
+}
+aside p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+aside span {
+    font-size: 14px;
+}
+aside div, article div {
+    margin-top: 10px;
+}
+#contact {
+    margin-top: 60px;
+}
+.skills {
+    display: flex;
+    margin-top: 0;
+}
+.skills div {
+    margin-top: 0px;
+    flex: 1;
+}
+li {
+    list-style-type: none;
+}
+ul {
+    padding-left: 0px
+}
+.experience {
+    margin-top: 0px;
+    font-size: 14px;
+}
+.expDate {
+    float: left;
+    margin-top: 0px;
+    width: 45%;
+}
+.expInfo {
+    float: left;
+    margin-top: 0px;
+    margin-left: 15px;
+    left: 50%;
+    width: 50%;
+}
+.experience p, footer p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.expInfo li {
+    list-style-type: circle;
+}
+.expInfo ul {
+    margin-top: 5px;
+    margin-left: 25px;
+}
+article hr {
+    width: 100%;
+}
+h3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
